@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:679/1*c0oBYuH38oI-ga0brPfOZw.gif" alt="Futuristic Animation" style="display: block; margin: auto;">
+
 
 <h1 align="center">Hi 👋, I'm Elyes Zoghlami</h1>
 <h3 align="center">A passionate DevOps Engineer from Tunisia</h3>
@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
-
-- 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **DevOps Tools**
 
