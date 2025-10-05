@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Elyes Zoghlami</h1>
 <h3 align="center">A passionate DevOps Engineer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
-
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
 - 💬 Ask me about **DevOps Tools**
 
-- 📫 How to reach me **elyes.zoghlami.1@esprit.tn**
+- 📫 How to reach me **elyes.zoghlami.dev@gmail.tn**
 
 - ⚡ Fun fact **I am a Professional Gamer/Streamer**
 
