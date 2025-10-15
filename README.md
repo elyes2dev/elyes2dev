@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **DevOps Tools**
 
-- 📫 How to reach me **elyes.zoghlami.dev@gmail.tn**
+- 📫 How to reach me **elyes.zoghlami.dev@gmail.com**
 
 - ⚡ Fun fact **I am a Professional Gamer/Streamer**
 
